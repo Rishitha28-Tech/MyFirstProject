@@ -1,4 +1,5 @@
 print("Hello Rishitha!")
 print("I am learning Git and GitHub.")
-print("its my first try so i am little confused.")
-print("its very intresting.")
+print("This is my first try, so i am little confused.")
+print("It is very interesting!")
+print("My first GitHub project is getting better!")
